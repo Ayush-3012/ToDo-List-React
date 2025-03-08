@@ -1,12 +1,48 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# ToDo-List - Ayush-3012
 
-Currently, two official plugins are available:
+Tech Stack -> ReactJs, TailwindCss, NodeJs
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project helps you keep track of your daily tasks.
 
-## Expanding the ESLint configuration
+🟧You can create new todos.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🟧You can edit your existing todos.
+
+🟧You can mark existing todos as DONE.
+
+🟧You can delete your existing todos.
+
+
+## Steps to run the project
+* Install the node_modules 
+    ```
+    npm Install
+* Run the react project using the `dev` command
+    ```
+    npm run dev
+* You can access the project on `localhost:5173`
+
+
+## Authors
+
+- [@Ayush Kumar](https://github.com/Ayush-3012)
+
+
+## 🚀 About Me
+I'm a MERN Stack developer with a B.Sc. (Hons.) Computer Science graduate from Dyal Singh College, Delhi University, 
+
+I have honed my abilities in various programming languages, including C++, JavaScript, Python, and Web tech. Additionally, I have explored exciting fields such as Machine Learning and Data Science, further enhancing my technical expertise.
+
+With a commendable 8.8 CGPA, I am actively seeking internships and jobs where I can apply my knowledge and passion for programming. I aim to secure a challenging position that will allow me to leverage my diverse skill set and contribute to meaningful projects. 
+
+As a lifelong learner, I am committed to continuous growth and staying at the forefront of the ever-evolving tech industry. Embracing new challenges and learning emerging technologies will empower me to thrive in any future endeavors.
+## 🛠 Skills
+C++, JavaScript, Python, HTML, CSS, MongoDB, ExpressJs, ReactJs, NodeJs, TailwindCss.
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-ayush-3012.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-6137651b4/)
+
+
